@@ -1,0 +1,1 @@
+Having fun with the Learn Ruby The Hard Way exercises. :)
